@@ -33,7 +33,7 @@ export default function Navbar() {
       >
         <a href="/" aria-label="Deploy home" className="shrink-0">
           <img
-            src="/assets/deploy-logo.png"
+            src="assets/deploy-logo.png"
             alt="Deploy"
             className="block h-[26.36px] w-[94px] object-cover"
           />
@@ -59,7 +59,7 @@ export default function Navbar() {
         >
           <span className="whitespace-nowrap">Book an AI strategy call</span>
           <img
-            src="/assets/arrow-up-right.svg"
+            src="assets/arrow-up-right.svg"
             alt=""
             aria-hidden="true"
             className="block size-[20px]"
@@ -116,7 +116,7 @@ export default function Navbar() {
           className="mt-card-y flex h-control items-center justify-center gap-ui-3 rounded-[57px] bg-navy px-card-x text-center text-[16px] font-medium leading-copy text-white"
         >
           <span>Book an AI strategy call</span>
-          <img src="/assets/arrow-up-right.svg" alt="" aria-hidden="true" className="size-[20px]" />
+          <img src="assets/arrow-up-right.svg" alt="" aria-hidden="true" className="size-[20px]" />
         </a>
       </div>
     </header>

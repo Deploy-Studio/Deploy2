@@ -11,7 +11,7 @@ export default function Footer() {
         <div>
           <a href="#" aria-label="Deploy home" className="inline-flex">
             <img
-              src="/assets/deploy-logo2.svg"
+              src="assets/deploy-logo2.svg"
               alt="Deploy"
               className="block h-[42px] w-[148px] object-contain"
             />

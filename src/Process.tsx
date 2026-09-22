@@ -9,7 +9,7 @@ const processSteps = [
         Assessment
       </>
     ),
-    icon: '/assets/discover.svg',
+    icon: 'assets/discover.svg',
     progress: 1,
   },
   {
@@ -22,7 +22,7 @@ const processSteps = [
         Blueprint
       </>
     ),
-    icon: '/assets/design.svg',
+    icon: 'assets/design.svg',
     progress: 2,
   },
   {
@@ -35,14 +35,14 @@ const processSteps = [
         <span className="whitespace-nowrap">Team Enablement</span>
       </>
     ),
-    icon: '/assets/deploy-ai.svg',
+    icon: 'assets/deploy-ai.svg',
     progress: 3,
   },
   {
     title: 'Operate',
     description: 'Continuously optimize, measure adoption, and identify new opportunities.',
     deliverable: 'Deliverable: Ongoing AI Operations',
-    icon: '/assets/operate.svg',
+    icon: 'assets/operate.svg',
     progress: 4,
   },
 ]

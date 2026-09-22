@@ -1,14 +1,14 @@
 const benefits = [
-  { label: 'Increase team productivity', icon: '/assets/trend2.svg' },
-  { label: 'Reduces operation cost', icon: '/assets/dollar-circle2.svg' },
-  { label: 'Turn AI into measurable business results', icon: '/assets/verify2.svg' },
+  { label: 'Increase team productivity', icon: 'assets/trend2.svg' },
+  { label: 'Reduces operation cost', icon: 'assets/dollar-circle2.svg' },
+  { label: 'Turn AI into measurable business results', icon: 'assets/verify2.svg' },
 ]
 
 export default function Hero() {
   return (
     <section className="relative -mt-[74px] flex min-h-[680px] overflow-hidden px-card-x pt-[150px] pb-[64px] sm:min-h-[740px] sm:pt-[190px] lg:min-h-[800px] lg:pt-[239px] lg:pb-section-sm">
       <img
-        src="/assets/hero-background.png"
+        src="assets/hero-background.png"
         alt=""
         aria-hidden="true"
         className="absolute inset-0 size-full object-cover"
@@ -51,7 +51,7 @@ export default function Hero() {
         >
           <span className="whitespace-nowrap">Book an AI strategy call</span>
           <img
-            src="/assets/arrow-up-right.svg"
+            src="assets/arrow-up-right.svg"
             alt=""
             aria-hidden="true"
             className="block size-[20px]"

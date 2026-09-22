@@ -48,7 +48,7 @@ export default function Metrics() {
         </div>
 
         <img
-          src="/assets/use-case2.svg"
+          src="assets/use-case2.svg"
           alt="AI reclaim opportunity calculator showing reclaimed hours, annual value, and capacity equivalents"
           className="block h-auto max-h-[555px] w-full min-w-0 max-w-[725px] justify-self-end rounded-[16px] border border-border object-cover xl:h-[555px]"
         />

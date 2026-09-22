@@ -53,7 +53,7 @@ export default function Partnership() {
         >
           <span>Book your AI strategy call</span>
           <img
-            src="/assets/button-arrow.svg"
+            src="assets/button-arrow.svg"
             alt=""
             aria-hidden="true"
             className="block size-[20px] shrink-0"

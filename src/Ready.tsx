@@ -2,7 +2,7 @@ export default function Ready() {
   return (
     <section
       className="relative flex min-h-[400px] items-center overflow-hidden bg-cover bg-center px-card-x py-[64px] sm:px-[40px] sm:py-section-sm"
-      style={{ backgroundImage: "url('/assets/way-to-work-bg.svg')" }}
+      style={{ backgroundImage: "url('assets/way-to-work-bg.svg')" }}
     >
       <div
         className="pointer-events-none absolute inset-0 bg-[linear-gradient(to_bottom,rgba(255,255,255,0.08)_0%,rgba(255,255,255,0.12)_62%,rgba(255,255,255,0.92)_100%)]"
@@ -27,7 +27,7 @@ export default function Ready() {
         >
           <span>Book your AI strategy call</span>
           <img
-            src="/assets/button-arrow.svg"
+            src="assets/button-arrow.svg"
             alt=""
             aria-hidden="true"
             className="block size-[20px] shrink-0 brightness-0 invert"

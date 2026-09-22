@@ -2,22 +2,22 @@ const alignmentCards = [
   {
     title: 'AI Without Alignment',
     description: 'Different teams use AI in different ways, creating inconsistent outcomes.',
-    icon: '/assets/chatbot.svg',
+    icon: 'assets/chatbot.svg',
   },
   {
     title: 'Manual Work',
     description: 'Routine tasks continue to consume valuable time.',
-    icon: '/assets/manual-transmission.svg',
+    icon: 'assets/manual-transmission.svg',
   },
   {
     title: 'Disconnected Systems',
     description: "Your business tools don't communicate effectively.",
-    icon: '/assets/disconnect.svg',
+    icon: 'assets/disconnect.svg',
   },
   {
     title: 'Underused Technology',
     description: 'AI and your existing software can deliver far more value with the right approach.',
-    icon: '/assets/technology.svg',
+    icon: 'assets/technology.svg',
   },
 ]
 

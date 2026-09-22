@@ -10,14 +10,14 @@ const firstRowCards: StandardCardProps[] = [
   {
     title: 'AI Workflow Automation',
     description: 'Reduce repetitive work and manual handoffs.',
-    image: '/assets/ai-workflow.svg',
+    image: 'assets/ai-workflow.svg',
     width: 327,
     imageWidth: 325,
   },
   {
     title: 'AI Knowledge Assistants',
     description: 'Give every employee instant access to company knowledge.',
-    image: '/assets/ai-knowledge.svg',
+    image: 'assets/ai-knowledge.svg',
     width: 327,
     imageWidth: 325,
   },
@@ -27,28 +27,28 @@ const secondRowCards: StandardCardProps[] = [
   {
     title: 'Client Experience',
     description: 'Automate reporting, invoicing, and approvals.',
-    image: '/assets/client-experience.svg',
+    image: 'assets/client-experience.svg',
     width: 295,
     imageWidth: 293,
   },
   {
     title: 'Marketing Operations',
     description: 'Accelerate content creation and campaign execution.',
-    image: '/assets/marketing-operation.svg',
+    image: 'assets/marketing-operation.svg',
     width: 295,
     imageWidth: 293,
   },
   {
     title: 'Delivery Operations',
     description: 'Keep projects moving through connected systems.',
-    image: '/assets/delivery-operation.svg',
+    image: 'assets/delivery-operation.svg',
     width: 295,
     imageWidth: 293,
   },
   {
     title: 'Executive AI Advisory',
     description: 'Develop a practical roadmap for long-term AI success.',
-    image: '/assets/executive-ai.svg',
+    image: 'assets/executive-ai.svg',
     width: 295,
     imageWidth: 293,
   },
@@ -110,7 +110,7 @@ function FinanceCard() {
         </p>
       </div>
       <img
-        src="/assets/metrics.svg"
+        src="assets/metrics.svg"
         alt="Finance operations dashboard"
         className="mx-auto block h-auto w-full max-w-[289px] shrink-0 rounded-[12px] object-contain xl:ml-[23px] xl:h-[322px] xl:w-[289px]"
       />
